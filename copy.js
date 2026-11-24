@@ -16,8 +16,8 @@ window.COPY = {
   jobs: {
     content: {
       /* 전체 공통 표기 (댓글 요청): 콘텐츠 / 그로스 / 퍼포먼스 마케터 */
-      en: 'Content / Growth / Performance Marketer',
-      koSp: '콘텐츠 / 그로스 / 퍼포먼스 마케터',
+      en: 'IMC / Influencer Marketer',
+      koSp: 'IMC / 인플루언서 마케터',
       /* 0. 소개: 메인 문장 / 보조 문장 */
       /* 댓글 요청: 제목 교체(줄바꿈 "사람이" 뒤), 보조 문장 삭제 */
       heroTitle: '<span class="ht-sm ht-3"><span class="ht-line">광고도 받아 본 사람이</span><br><span class="ht-line ht-tilt"><i class="ht-ul" aria-hidden="true"></i><span class="ht-tx">인플루언서 협업</span></span><br><span class="ht-line">제대로 할 줄 안다</span></span>',
